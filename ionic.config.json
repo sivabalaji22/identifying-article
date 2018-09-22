@@ -1,0 +1,7 @@
+{
+  "name": "pepgra",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
